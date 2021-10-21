@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\bin\Debug\net5.0\ByteBankInter.exe
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\bin\Debug\net5.0\ByteBankInter.deps.json
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\bin\Debug\net5.0\ByteBankInter.runtimeconfig.json
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\bin\Debug\net5.0\ByteBankInter.runtimeconfig.dev.json
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\bin\Debug\net5.0\ByteBankInter.dll
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\bin\Debug\net5.0\ref\ByteBankInter.dll
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\bin\Debug\net5.0\ByteBankInter.pdb
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\obj\Debug\net5.0\ByteBankInter.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\obj\Debug\net5.0\ByteBankInter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\obj\Debug\net5.0\ByteBankInter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\obj\Debug\net5.0\ByteBankInter.AssemblyInfo.cs
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\obj\Debug\net5.0\ByteBankInter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\obj\Debug\net5.0\ByteBankInter.dll
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\obj\Debug\net5.0\ref\ByteBankInter.dll
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\obj\Debug\net5.0\ByteBankInter.pdb
+C:\Users\User\source\repos\ByteBankFuncionarios\ByteBankFuncionarios\obj\Debug\net5.0\ByteBankInter.genruntimeconfig.cache
